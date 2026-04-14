@@ -1,0 +1,24 @@
+# Student Result Analysis & Management System
+
+## Features
+- Login System
+- DBMS Analysis
+- COA Scheduling
+- Statistics Analysis
+
+## Technologies
+- Python
+- MySQL
+
+## How to Run
+1. Install Python
+2. Install MySQL
+3. Run parv_project.sql
+4. Run main_project.py
+
+## Login
+Email: rahul@gmail.com
+Password: 123
+
+## Author
+Parv Sharma
